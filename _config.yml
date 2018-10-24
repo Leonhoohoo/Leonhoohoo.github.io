@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 44c1bc87851f23ee1305   #生成的clientID
-  clientSecret: c7c11cefb282beb3af9dbb4ad5f03ec4f16ff48b    #生成的clientSecret
+  clientID: d3fd7f69d5f2a39e069f   #生成的clientID
+  clientSecret: 67f36b52a2115d46ee37b620bb8b139485b51336    #生成的clientSecret
   repo: Leonhoohoo.github.io    #仓库名称
   owner: Leonhoohoo    #github用户名
   admin: Leonhoohoo
